@@ -1,7 +1,7 @@
-export default function ProfilePage() {
+export default function AdminProfilePage() {
     return (
       <main>
-        <h1>Profile</h1>
+        <h1>AdminProfilePage</h1>
       </main>
     );
   }
