@@ -1,0 +1,95 @@
+{
+  "sampleProducts": [
+    {
+      "title": "iPhone 15 Pro Max",
+      "description": "The most advanced iPhone ever with titanium design, A17 Pro chip, and professional camera system. Features a 6.7-inch Super Retina XDR display with ProMotion technology for incredibly smooth scrolling and responsiveness.",
+      "price": 1199.99,
+      "discount": 10,
+      "quantity": 25,
+      "quality": "new",
+      "sku": "IPHONE-15-PRO-MAX-256",
+      "brand": "Apple",
+      "category": "electronics",
+      "tags": ["smartphone", "apple", "iphone", "5g", "camera", "titanium", "pro"],
+      "images": [
+        "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=500",
+        "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500",
+        "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=500"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=300",
+      "isFeatured": true
+    },
+    {
+      "title": "Nike Air Max 270",
+      "description": "Comfortable running shoes with Max Air unit in the heel for exceptional cushioning. Perfect for daily wear and light workouts. Features breathable mesh upper and durable rubber outsole.",
+      "price": 149.99,
+      "discount": 20,
+      "quantity": 50,
+      "quality": "new",
+      "sku": "NIKE-AIR-MAX-270-BLK-10",
+      "brand": "Nike",
+      "category": "clothing",
+      "tags": ["shoes", "nike", "running", "sports", "comfort", "air max", "athletic"],
+      "images": [
+        "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500",
+        "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=300",
+      "isFeatured": false
+    },
+    {
+      "title": "Sony WH-1000XM5 Headphones",
+      "description": "Industry-leading noise canceling wireless headphones with 30-hour battery life and premium sound quality. Features advanced noise canceling technology and crystal-clear hands-free calling.",
+      "price": 399.99,
+      "discount": 15,
+      "quantity": 30,
+      "quality": "new",
+      "sku": "SONY-WH1000XM5-BLACK",
+      "brand": "Sony",
+      "category": "electronics",
+      "tags": ["headphones", "sony", "wireless", "noise canceling", "bluetooth", "premium"],
+      "images": [
+        "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
+        "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=500"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=300",
+      "isFeatured": true
+    },
+    {
+      "title": "Levi's 501 Original Jeans",
+      "description": "Classic straight-leg jeans made from 100% cotton denim. The original blue jean since 1873. Features button fly and classic 5-pocket styling for timeless appeal.",
+      "price": 89.99,
+      "discount": 0,
+      "quantity": 75,
+      "quality": "new",
+      "sku": "LEVIS-501-BLUE-32X34",
+      "brand": "Levi's",
+      "category": "clothing",
+      "tags": ["jeans", "levis", "denim", "classic", "cotton", "blue", "vintage"],
+      "images": [
+        "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=500",
+        "https://images.unsplash.com/photo-1582552938357-32b906df40cb?w=500"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=300",
+      "isFeatured": false
+    },
+    {
+      "title": "MacBook Pro 14-inch M3",
+      "description": "Supercharged by M3 chip with 8-core CPU and 10-core GPU. Features Liquid Retina XDR display and up to 22 hours of battery life. Perfect for professionals and creators.",
+      "price": 1999.99,
+      "discount": 5,
+      "quantity": 15,
+      "quality": "new",
+      "sku": "MACBOOK-PRO-14-M3-512GB",
+      "brand": "Apple",
+      "category": "electronics",
+      "tags": ["laptop", "apple", "macbook", "m3 chip", "professional", "portable", "creator"],
+      "images": [
+        "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500",
+        "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=300",
+      "isFeatured": true
+    }
+  ]
+}
