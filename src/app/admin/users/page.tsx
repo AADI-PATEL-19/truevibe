@@ -1,7 +1,7 @@
-export default function AdminProfilePage() {
+export default function ManageUsers() {
     return (
       <main>
-        <h1>AdminProfilePage</h1>
+        <h1>ManageUsers</h1>
       </main>
     );
   }
